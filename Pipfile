@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "==2018.4.16"
+dj-database-url = "==0.5.0"
+django-heroku = "==0.3.1"
+django-widget-tweaks = "==1.4.2"
+django-widgets-improved = "==1.5.0"
+gunicorn = "==19.8.1"
+pipenv = "==2018.5.18"
+"psycopg2" = "==2.7.4"
+"psycopg2-binary" = "==2.7.4"
+python-decouple = "==3.1"
+pytz = "==2018.4"
+virtualenv = "==16.0.0"
+virtualenv-clone = "==0.3.0"
+whitenoise = "==3.3.1"
+Django = "==2.0.5"
+Markdown = "==2.6.11"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
